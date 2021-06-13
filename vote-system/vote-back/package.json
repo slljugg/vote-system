@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "*",
+    "jimp": "^0.16.1",
+    "node-pre-gyp": "^0.17.0",
+    "path": "^0.12.7",
+    "sqlite": "^4.0.21"
+  }
+}
